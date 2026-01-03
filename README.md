@@ -1,1 +1,1 @@
-# Manual-testing-
+# Manual-testing-Manual Testing is a software testing process in which a tester manually executes test cases without using any automation tools. The main objective of manual testing is to identify bugs, defects, and errors in the software and to ensure that the application works as per the specified requirements.
